@@ -1,0 +1,55 @@
+Thu Sep  8 15:30:52 2022 INFO: Binding
+Thu Sep  8 15:31:01 2022 INFO: Getting the message from client:  ls
+Thu Sep  8 15:31:01 2022 INFO: Server is sending:  lsclient
+client.c
+externals
+makefile
+server
+server.c
+server.o
+tt_server.log
+
+Thu Sep  8 15:31:02 2022 INFO: Getting the message from client:  ls
+Thu Sep  8 15:31:02 2022 INFO: Server is sending:  lsclient
+client.c
+externals
+makefile
+server
+server.c
+server.o
+tt_server.log
+
+Thu Sep  8 15:31:03 2022 INFO: Getting the message from client:  quit
+Thu Sep  8 15:32:19 2022 INFO: Binding
+Thu Sep  8 15:32:26 2022 INFO: Connection accepted from 127.0.0.1:42150:Client number 1
+
+Thu Sep  8 15:32:27 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:28 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:29 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:30 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:31 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:32 2022 INFO: Getting the message from client:  2 ls
+Thu Sep  8 15:32:33 2022 INFO: Getting the message from client:  2 quit
+Thu Sep  8 15:34:36 2022 INFO: Binding
+Thu Sep  8 15:34:40 2022 INFO: Connection accepted from 127.0.0.1:51930: Client number 1
+Thu Sep  8 15:34:41 2022 INFO: Getting the message from client  1  : ls
+Thu Sep  8 15:34:42 2022 INFO: Getting the message from client  1  : ls
+Thu Sep  8 15:34:43 2022 INFO: Getting the message from client  1  : ls
+Thu Sep  8 15:34:43 2022 INFO: Getting the message from client  1  : ls
+Thu Sep  8 15:34:44 2022 INFO: Getting the message from client  1  : l
+Thu Sep  8 15:34:44 2022 INFO: Getting the message from client  1  : s
+Thu Sep  8 15:34:46 2022 INFO: Getting the message from client  1  : ls
+Thu Sep  8 15:34:47 2022 INFO: Getting the message from client  1  : quit
+Thu Sep  8 15:35:33 2022 INFO: Connection accepted from 127.0.0.1:51932: Client number 2
+Thu Sep  8 15:35:34 2022 INFO: Getting the message from client  2  : ls
+Thu Sep  8 15:35:35 2022 INFO: Getting the message from client  2  : ls
+Thu Sep  8 15:35:36 2022 INFO: Getting the message from client  2  : ls
+Thu Sep  8 15:35:47 2022 INFO: Connection accepted from 127.0.0.1:51936: Client number 3
+Thu Sep  8 15:35:49 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:50 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:50 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:51 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:52 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:53 2022 INFO: Getting the message from client  3  : ls
+Thu Sep  8 15:35:58 2022 INFO: Getting the message from client  2  : quit
+Thu Sep  8 15:36:01 2022 INFO: Getting the message from client  3  : quit
